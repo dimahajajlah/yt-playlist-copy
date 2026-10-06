@@ -92,3 +92,4 @@ Each added video costs **50 quota units**, and the default daily limit is **10,0
 ## License
 
 MIT
+https://docs.google.com/document/d/1lfXUhg2SESIR0j-3ztEQeuxj2nBEzY0TBspsaojPdnI/edit?usp=sharing
